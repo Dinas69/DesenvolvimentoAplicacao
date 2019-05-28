@@ -1,0 +1,10 @@
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\ProjetoDesenvolvimento\bin\Debug\ProjetoDesenvolvimento.exe.config
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\ProjetoDesenvolvimento\bin\Debug\ProjetoDesenvolvimento.exe
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\ProjetoDesenvolvimento\bin\Debug\ProjetoDesenvolvimento.pdb
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.csprojAssemblyReference.cache
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.Form1.resources
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.Properties.Resources.resources
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.csproj.GenerateResource.cache
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.csproj.CoreCompileInputs.cache
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.exe
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.pdb

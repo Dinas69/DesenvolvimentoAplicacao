@@ -1,0 +1,9 @@
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\leopo\OneDrive\Ambiente de Trabalho\Desenvolvimento_Aplicação\Projeto\Projeto\obj\Debug\Projeto.pdb
