@@ -1,0 +1,11 @@
+C:\Users\franv\OneDrive\Área de Trabalho\ProjetoDesenvolvimento\ProjetoDesenvolvimento\bin\Debug\ProjetoDesenvolvimento.exe.config
+C:\Users\franv\OneDrive\Área de Trabalho\ProjetoDesenvolvimento\ProjetoDesenvolvimento\bin\Debug\ProjetoDesenvolvimento.exe
+C:\Users\franv\OneDrive\Área de Trabalho\ProjetoDesenvolvimento\ProjetoDesenvolvimento\bin\Debug\ProjetoDesenvolvimento.pdb
+C:\Users\franv\OneDrive\Área de Trabalho\ProjetoDesenvolvimento\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.csprojAssemblyReference.cache
+C:\Users\franv\OneDrive\Área de Trabalho\ProjetoDesenvolvimento\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.Properties.Resources.resources
+C:\Users\franv\OneDrive\Área de Trabalho\ProjetoDesenvolvimento\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.csproj.GenerateResource.cache
+C:\Users\franv\OneDrive\Área de Trabalho\ProjetoDesenvolvimento\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.csproj.CoreCompileInputs.cache
+C:\Users\franv\OneDrive\Área de Trabalho\ProjetoDesenvolvimento\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.exe
+C:\Users\franv\OneDrive\Área de Trabalho\ProjetoDesenvolvimento\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.pdb
+C:\Users\franv\OneDrive\Área de Trabalho\ProjetoDesenvolvimento\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.Alpha.resources
+C:\Users\franv\OneDrive\Área de Trabalho\ProjetoDesenvolvimento\ProjetoDesenvolvimento\obj\Debug\ProjetoDesenvolvimento.Form2.resources

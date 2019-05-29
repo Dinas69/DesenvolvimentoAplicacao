@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f3705a4efc8640cfb2ca745ea948cc80" Name="Diagram1" ZoomLevel="78" >
+        <EntityTypeShape EntityType="ModeloProjeto.Cliente" Width="1.5" PointX="3.5" PointY="3.5" />
+        <EntityTypeShape EntityType="ModeloProjeto.CarroOficina" Width="1.5" PointX="10.875" PointY="5.5" />
+        <EntityTypeShape EntityType="ModeloProjeto.Servico" Width="1.5" PointX="6" PointY="4" />
+        <EntityTypeShape EntityType="ModeloProjeto.Parcela" Width="1.5" PointX="3.75" PointY="9.125" />
+        <EntityTypeShape EntityType="ModeloProjeto.Venda" Width="1.5" PointX="8.25" PointY="3.75" />
+        <EntityTypeShape EntityType="ModeloProjeto.CarroVenda" Width="1.5" PointX="6" PointY="1.375" />
+        <EntityTypeShape EntityType="ModeloProjeto.Carro" Width="1.5" PointX="7.75" PointY="7.25" />
+        <EntityTypeShape EntityType="ModeloProjeto.Aluguer" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="ModeloProjeto.CarroAluguer" Width="1.5" PointX="2.5" PointY="0.875" />
+        <AssociationConnector Association="ModeloProjeto.CarrosOficinaCliente" />
+        <AssociationConnector Association="ModeloProjeto.ClienteVenda" />
+        <AssociationConnector Association="ModeloProjeto.AluguerCliente" />
+        <AssociationConnector Association="ModeloProjeto.CarrosOficinaServiço" />
+        <AssociationConnector Association="ModeloProjeto.ParcelaServiço" />
+        <AssociationConnector Association="ModeloProjeto.CarroVendaVenda" />
+        <AssociationConnector Association="ModeloProjeto.CarroAluguerAluguer" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
